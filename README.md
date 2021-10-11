@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SarveshGuptaPythonist/SarveshGuptaPythonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/sarvesh-gupta-731242168/
 - 😄 Pronouns: Pythonist
 - ⚡ Fun fact: I started my journey in Electronics, now Looking into Data Science.
--->
+
