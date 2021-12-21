@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about My Work at Loves Cloud, and DSA.
 - 📫 How to reach me: https://www.linkedin.com/in/sarvesh-gupta-731242168/
 - 😄 Pronouns: Pythonist
-- ⚡ Fun fact: I started my journey in Electronics, now Looking into Data Science.
+- ⚡ Fun fact: I started my journey in Electronics, now Looking into Software Development Engineer.
 
